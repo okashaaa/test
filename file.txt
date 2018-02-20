@@ -1,6 +1,9 @@
 green
 yellow
 white
+bebo
+beko
+reko
 red
 blue
 seko
