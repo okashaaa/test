@@ -3,4 +3,6 @@ yellow
 white
 red
 blue
+seko
+teko
 orange
