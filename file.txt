@@ -1,6 +1,8 @@
 green
 yellow
 white
+bebo
+beko
 red
 blue
 orange
