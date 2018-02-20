@@ -5,6 +5,8 @@ bebo
 beko
 reko
 red
+ahmed
+mohamed
 blue
 seko
 teko
