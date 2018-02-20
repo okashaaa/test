@@ -3,6 +3,7 @@ yellow
 white
 bebo
 beko
+reko
 red
 blue
 orange
